@@ -16,8 +16,6 @@ comments: true
    
 <center><b>Keynotes, comunidades e palestrantes.</b></center>
      
-Primeira edição
-
 A primeira edição do Tech && Beer ocorrerá no dia 20 de dezembro na sede da ilegra e vamos arrecadar itens como alimentos, higiene e limpeza, roupas e brinquedos para o [Quilombo Família Lemos](https://www.facebook.com/QuilomboLemos/)!
 Quem vai estar lá?
 
