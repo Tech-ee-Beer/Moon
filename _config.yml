@@ -5,7 +5,7 @@ description:        "Feito DE Comunidade PARA Comunidade."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Screenshot_20181210-132645.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/fundo.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://tech-ee-beer.github.io
