@@ -3,7 +3,6 @@ layout: post
 title:  "Primeira edição"
 date:   2018-11-18
 excerpt: "Olha quem vai estar na nossa primeira edição."
-project: true
 tag:
 - jekyll 
 - moon
