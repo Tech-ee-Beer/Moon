@@ -14,7 +14,7 @@ comments: true
 ---
 
    
-<center><b>Moon</b> Keynotes, comunidades e palestrantes.</center>
+<center><b>Keynotes, comunidades e palestrantes.</b></center>
      
 Primeira edição
 
