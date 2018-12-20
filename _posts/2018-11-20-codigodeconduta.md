@@ -1,14 +1,8 @@
 ---
 layout: post
 title:  "Código de Conduta"
-date:   2018-11-20
+date:   2018-12-20
 excerpt: "Este código de conduta é aplicável dentro da duração e das dependências de qualquer edição do evento. Por favor, leia e entenda o que representa a conduta que buscamos dentro dos nossos eventos."
-tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
 comments: true
 ---
 

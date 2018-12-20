@@ -1,14 +1,8 @@
 ---
 layout: post
 title:  "Primeira edição"
-date:   2018-11-18
+date:   2018-12-20
 excerpt: "Olha quem vai estar na nossa primeira edição."
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
 comments: true
 ---
 
