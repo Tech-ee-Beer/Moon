@@ -4,7 +4,7 @@ bio:                'Comunidades | Confraternização | Cerveja | Networking | F
 description:        "Feito DE Comunidade PARA Comunidade."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Screenshot_20181210-132645.png'
+logo:               'assets/img/tech_and_beer_sticker_arts-02.png'
 background:         'assets/img/fundo.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
