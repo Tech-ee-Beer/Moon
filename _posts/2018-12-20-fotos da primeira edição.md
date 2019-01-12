@@ -7,4 +7,4 @@ tags: [sample post, readability, test]
 comments: true
 ---
 
-![Fotos](Fotosedicao1/)
+![Fotos](/Fotosedicao1/)
