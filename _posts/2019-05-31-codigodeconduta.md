@@ -43,7 +43,7 @@ Assédio inclui mas não é limitado a:
 #### No nosso compromisso com um ambiente livre de assédio, diverso e inclusivo, acreditamos que seja importante que se dê atenção a padrões de linguagem prejudiciais.
 #### Capacitismo: 
 Palavras como “louco”, “burro”, “insano”, “retardado” ou “aleijado” são exemplos de linguagem capacitista, desvalorizando ou insultando pessoas que têm deficiências mentais ou físicas. Elas geralmente não são usadas com a intenção de ofender, mas pela nossa noção inata do que significa “ser normal”. Essas palavras podem ser evitadas por formas mais adequadas e claras de descrever o que queremos comunicar. 
-> Para saber mais sobre capacitismo [leia este artigo](http://www.inclusive.org.br/arquivos/29958).
+* Para saber mais sobre capacitismo [leia este artigo](http://www.inclusive.org.br/arquivos/29958).
 
 #### Sexismo: 
 Utilizar vícios verbais como “cara”, “rapaziada” ou "brotheragem" para se referir a um grupo de pessoas com gêneros variados contribui para a exclusão de pessoas sub-representadas. Nós recomendamos fortemente que se evite termos ou pronomes com ligação a um só gênero.
