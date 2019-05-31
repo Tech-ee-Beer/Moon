@@ -21,15 +21,23 @@ Fica extremamente proíbida o ingresso de menores de 18 anos desacompanhados de 
 ### Anti-Assédio
 Assédio inclui mas não é limitado a:
 
-> Comentários verbais que reforçam estruturas de dominação relacionadas a identidade de gênero e expressão, orientação sexual, deficiências, aparência física, proporções do corpo, raça, idade, religião ou a falta de;
-> Imagens sexuais em espaços públicos;
-> Intimidação deliberada ou perseguição de qualquer forma;
-> Fotos ou filmagens assediadoras ou sem consentimento da pessoa retratada;
-> Interrupção sustentada de palestras ou outros eventos;
-> Contato físico inapropriado;
-> Invasão de espaço pessoal;
-> Atenção sexual indesejada;
-> Defender ou encorajar qualquer dos comportamentos citados.
+* Comentários verbais que reforçam estruturas de dominação relacionadas a identidade de gênero e expressão, orientação sexual, deficiências, aparência física, proporções do corpo, raça, idade, religião ou a falta de;
+
+* Imagens sexuais em espaços públicos;
+
+* Intimidação deliberada ou perseguição de qualquer forma;
+
+* Fotos ou filmagens assediadoras ou sem consentimento da pessoa retratada;
+
+* Interrupção sustentada de palestras ou outros eventos;
+
+* Contato físico inapropriado;
+
+* Invasão de espaço pessoal;
+
+* Atenção sexual indesejada;
+
+* Defender ou encorajar qualquer dos comportamentos citados.
 
 ### Linguagem
 #### No nosso compromisso com um ambiente livre de assédio, diverso e inclusivo, acreditamos que seja importante que se dê atenção a padrões de linguagem prejudiciais.
@@ -45,9 +53,13 @@ Termos como “denegrir”, “mercado negro” e “a coisa tá preta” trazem
 Mais informações nos seguintes links:
 
 > https://www.modefica.com.br/expressoes-rascistas/#.XB0F21xKiUl
+
 > http://www.revistacapitolina.com.br/expressoes-que-voce-deve-parar-de-usar-partir-de-ontem/
+
 > https://www.geledes.org.br/18-expressoes-racistas-que-voce-usa-sem-saber/
+
 > https://www.buzzfeed.com/ramosaline/elogios-que-sao-verdadeiras-ofensas-racistas
+
 > https://veja.abril.com.br/tveja/em-pauta/dez-expressoes-racistas-que-voce-fala-sem-perceber/
 
 ### Se for identificada uma quebra desse código:
@@ -59,19 +71,19 @@ As pessoas que forem responsáveis pelos danos serão convidadas a se retirar do
 
 Em resumo:
 
-> Seja educado, honesto, digno e gentil ao falar e lidar com as outras pessoas;
+* Seja educado, honesto, digno e gentil ao falar e lidar com as outras pessoas;
 
-> Trate as outras pessoas como gostaria de ser tratado;
+* Trate as outras pessoas como gostaria de ser tratado;
 
-> Promova o conhecimento e a troca de experiências de forma respeitosa e honrada;
+* Promova o conhecimento e a troca de experiências de forma respeitosa e honrada;
 
-> Promovemos a diversidade e a inclusão;
+* Promovemos a diversidade e a inclusão;
 
-> Não toleramos preconceitos;
+* Não toleramos preconceitos;
 
-> Não toleramos assédios;
+* Não toleramos assédios;
 
-> Não toleramos violência.
+* Não toleramos violência.
 
 ### Comunicação:
 Se alguém fizer você ou outro alguém se sentir desconfortável, sem segurança ou bem aceite, por favor comunique-nos assim que possível. Os organizadores estão listados na página de contato e também estarão utilizando uma camiseta do evento de cor diferente.
