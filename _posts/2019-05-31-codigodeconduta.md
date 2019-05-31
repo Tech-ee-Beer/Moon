@@ -44,9 +44,11 @@ Assédio inclui mas não é limitado a:
 #### Capacitismo: 
 Palavras como “louco”, “burro”, “insano”, “retardado” ou “aleijado” são exemplos de linguagem capacitista, desvalorizando ou insultando pessoas que têm deficiências mentais ou físicas. Elas geralmente não são usadas com a intenção de ofender, mas pela nossa noção inata do que significa “ser normal”. Essas palavras podem ser evitadas por formas mais adequadas e claras de descrever o que queremos comunicar. 
 > Para saber mais sobre capacitismo [leia este artigo](http://www.inclusive.org.br/arquivos/29958).
+
 #### Sexismo: 
 Utilizar vícios verbais como “cara”, “rapaziada” ou "brotheragem" para se referir a um grupo de pessoas com gêneros variados contribui para a exclusão de pessoas sub-representadas. Nós recomendamos fortemente que se evite termos ou pronomes com ligação a um só gênero.
 > Para saber mais leia o [manual para o uso não sexista na linguagem](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://edisciplinas.usp.br/pluginfile.php/3034366/mod_resource/content/1/Manual%20para%20uso%20n%C3%A3o%20sexista%20da%20linguagem.pdf) e [este artigo](https://medium.com/coragem/adotando-a-linguagem-neutra-de-g%C3%AAnero-e509e6e4e06c).
+
 #### Racismo:
 Termos como “denegrir”, “mercado negro” e “a coisa tá preta” trazem à tona um histórico cultural cruel e ofensivo. Recomendamos que as evite ao máximo, sempre procurando termos mais apropriados para o exemplo desejado. Quando em dúvida basta alterar o termo para a sua identidade racial, se parecer ofensivo provavelmente é.
 
