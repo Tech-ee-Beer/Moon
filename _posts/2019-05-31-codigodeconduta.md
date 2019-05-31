@@ -47,22 +47,22 @@ Palavras como “louco”, “burro”, “insano”, “retardado” ou “alei
 
 #### Sexismo: 
 Utilizar vícios verbais como “cara”, “rapaziada” ou "brotheragem" para se referir a um grupo de pessoas com gêneros variados contribui para a exclusão de pessoas sub-representadas. Nós recomendamos fortemente que se evite termos ou pronomes com ligação a um só gênero.
-> Para saber mais leia o [manual para o uso não sexista na linguagem](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://edisciplinas.usp.br/pluginfile.php/3034366/mod_resource/content/1/Manual%20para%20uso%20n%C3%A3o%20sexista%20da%20linguagem.pdf) e [este artigo](https://medium.com/coragem/adotando-a-linguagem-neutra-de-g%C3%AAnero-e509e6e4e06c).
+* Para saber mais leia o [manual para o uso não sexista na linguagem](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://edisciplinas.usp.br/pluginfile.php/3034366/mod_resource/content/1/Manual%20para%20uso%20n%C3%A3o%20sexista%20da%20linguagem.pdf) e [este artigo](https://medium.com/coragem/adotando-a-linguagem-neutra-de-g%C3%AAnero-e509e6e4e06c).
 
 #### Racismo:
 Termos como “denegrir”, “mercado negro” e “a coisa tá preta” trazem à tona um histórico cultural cruel e ofensivo. Recomendamos que as evite ao máximo, sempre procurando termos mais apropriados para o exemplo desejado. Quando em dúvida basta alterar o termo para a sua identidade racial, se parecer ofensivo provavelmente é.
 
 Mais informações nos seguintes links:
 
-> https://www.modefica.com.br/expressoes-rascistas/#.XB0F21xKiUl
+* https://www.modefica.com.br/expressoes-rascistas/#.XB0F21xKiUl
 
-> http://www.revistacapitolina.com.br/expressoes-que-voce-deve-parar-de-usar-partir-de-ontem/
+* http://www.revistacapitolina.com.br/expressoes-que-voce-deve-parar-de-usar-partir-de-ontem/
 
-> https://www.geledes.org.br/18-expressoes-racistas-que-voce-usa-sem-saber/
+* https://www.geledes.org.br/18-expressoes-racistas-que-voce-usa-sem-saber/
 
-> https://www.buzzfeed.com/ramosaline/elogios-que-sao-verdadeiras-ofensas-racistas
+* https://www.buzzfeed.com/ramosaline/elogios-que-sao-verdadeiras-ofensas-racistas
 
-> https://veja.abril.com.br/tveja/em-pauta/dez-expressoes-racistas-que-voce-fala-sem-perceber/
+* https://veja.abril.com.br/tveja/em-pauta/dez-expressoes-racistas-que-voce-fala-sem-perceber/
 
 ### Se for identificada uma quebra desse código:
 Se espera que participantes solicitados a parar qualquer comportamento de assédio colaborem com a equipe.
